@@ -1,4 +1,5 @@
-//
+//  Programme de démonstration des fonctionnalités et d'utilisation du module
+//    optl.
 #include <stdlib.h>
 #include <stdio.h>
 #include "optl.h"
