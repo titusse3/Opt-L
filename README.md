@@ -82,7 +82,7 @@ Ressource use to make this module :
 
 ## License
 
-MIT
+GPLv3
 
 ---
 
