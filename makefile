@@ -1,5 +1,5 @@
 CC = gcc
-CFLAGS = -std=c18 \
+CFLAGS = -std=c23 \
   -Wall -Wconversion -Werror -Wextra -Wpedantic -Wwrite-strings \
   -O2
 objects = optl.o optl_test.o
